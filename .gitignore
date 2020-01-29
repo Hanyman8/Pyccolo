@@ -1,2 +1,4 @@
 __venv__
 .idea
+pyccolo/uploads
+__pycache__
